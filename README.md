@@ -1,2 +1,2 @@
 # SentimentDigger
-Sentiment Analyser
+Sentiment Analysis
